@@ -1,4 +1,4 @@
-<h1>Hi, i'm Nicolas! 👾 </h1>
+<h1>Hi, I'm Nicolas! 👾 </h1>
 <p><strong>WELCOME 😅!</strong></p>
 <hr/>
 
