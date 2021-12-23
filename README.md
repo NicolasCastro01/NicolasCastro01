@@ -14,9 +14,11 @@
 </div>
 
 
+
 <hr/>
 <div>
   <h2>E essa é uma análise superficial do meu perfil!</h2>
+  
   <br/>
   
   ![Nicolas Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasCastro01&theme=midnight-purple&show_icons=true)
@@ -27,8 +29,18 @@
 </div>
 
 
+## Detailed information
 
+* **Name**: Nicolas Castro
+* **Age**: 19
+* **Living in**: Bahia, Brazil
+* **Stack**: Javascript - HTML - CSS - NODE..
+* **University**: Analysis and systems development - first semester
 
+## Curiosities about me
+
+* I turned to build a vigenere decoder in my high school to decipher a math assignment that was just that, and I helped everyone in the room to get the maximum grade. We achieved;
+* I learned how to assemble a 3x3x3 magic cube in the time of 50 seconds in 1 hour;
 
 
 <div>
