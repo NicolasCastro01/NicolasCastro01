@@ -34,13 +34,8 @@
 * **Name**: Nicolas Castro
 * **Age**: 19
 * **Living in**: Bahia, Brazil
-* **Stack**: Javascript - HTML - CSS - NODE..
+* **Stack**: Javascript - HTML - CSS - PHP
 * **University**: Analysis and systems development - first semester
-
-## Curiosities about me
-
-* I turned to build a vigenere decoder in my high school to decipher a math assignment that was just that, and I helped everyone in the room to get the maximum grade. We achieved;
-* I learned how to assemble a 3x3x3 magic cube in the time of 50 seconds in 1 hour;
 
 
 <div>
