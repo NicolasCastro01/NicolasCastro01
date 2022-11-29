@@ -1,31 +1,9 @@
-<img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" align="right" height="128px" width="128px"></img>
-<h1>Welcome!</h1>
-
-<h3>Olá, me chamo Nicolas Castro e esse é o meu GitHub. Espero que encontre o que deseja!</h3>
-<div>
-  
-</div>
-
-<hr/>
 
 <div>
-  <img src="https://2.bp.blogspot.com/-uo1p9Jg0iHE/Vx5hGehv-DI/AAAAAAAATnw/KFIJ5nyDu1gcxirTTEudZCX2fpkw6DSpQCLcB/s1600/Gif%2BGato%2BEstudando%2BEstrat%25C3%25A9gias%2BMilitares.gif" align="left" height="128px" width="128px"></img>
-  <p>Procuro melhorar os meus conhecimentos🧠 todos os dias and, if possible, to aprimorate my english📖!</p>
-</div>
-
-
-
-<hr/>
-<div>
-  <h2>E essa é uma análise superficial do meu perfil!</h2>
-  
-  <br/>
   
   ![Nicolas Castro GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasCastro01&theme=midnight-purple&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCastro01&theme=midnight-purple)
-  
-  
-  
+
 </div>
 
 
@@ -35,7 +13,7 @@
 * **Age**: 19
 * **Living in**: Bahia, Brazil
 * **Stack**: Javascript - HTML - CSS - PHP
-* **University**: Analysis and systems development - first semester
+* **University**: Analysis and systems development - Third semester
 
 
 <div>
