@@ -10,9 +10,9 @@
 ## Detailed information
 
 * **Name**: Nicolas Castro
-* **Age**: 19
+* **Age**: 20
 * **Living in**: Bahia, Brazil
-* **Stack**: Javascript - HTML - CSS - PHP
+* **Stack**: Javascript - HTML - CSS - PHP - React - Next - Nest - Typescript
 * **University**: Analysis and systems development - Third semester
 
 
