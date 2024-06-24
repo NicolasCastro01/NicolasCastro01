@@ -13,7 +13,7 @@
 * **Age**: 21
 * **Living in**: Bahia, Brazil
 * **Stack**: Javascript - HTML - CSS - PHP - React - Next - Nest - Typescript
-* **University**: Analysis and systems development - Third semester
+* **Graduated in**: Systems analysis and development
 
 
 <div>
